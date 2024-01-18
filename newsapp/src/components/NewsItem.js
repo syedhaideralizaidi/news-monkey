@@ -14,7 +14,7 @@ export class NewsItem extends Component {
               style={{ zIndex: "1", left: "90%" }}
             >
               {source}
-              <span className="visually-hidden">unread source</span>
+              {/* <span className="visually-hidden">unread source</span> */}
             </span>
 
             <h5 className="card-title">{title}...</h5>

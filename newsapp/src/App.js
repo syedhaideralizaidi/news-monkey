@@ -14,7 +14,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 //     )
 //   }
 // }
-let pageSize = 2;
+let pageSize = 5;
 export default class App extends Component {
   render() {
     return (
